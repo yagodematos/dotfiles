@@ -1,2 +1,2 @@
-# dotfiles
-Config files for my Linux box 
+These are my dotfiles
+
