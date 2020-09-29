@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dotfiles=(kitty nvim)
+
+for d in "${dotfiles[@]}"; do
+    stow -v -R -t ~ "$d"
+done
