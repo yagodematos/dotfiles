@@ -1,2 +1,2 @@
-These are my dotfiles
+dotfiles
 
