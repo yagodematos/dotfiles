@@ -44,6 +44,9 @@ set wildignore+=*.o,*~,*.pyc,*pycache* " Ignore compiled files
 set wildignore+=__pycache__
 
 
+autocmd Filetype xml setlocal ts=2 sw=2
+autocmd Filetype html setlocal ts=2 sw=2
+autocmd Filetype json setlocal ts=2 sw=2
 
 
 " DelimitMate
